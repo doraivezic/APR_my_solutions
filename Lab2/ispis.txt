@@ -1,0 +1,260 @@
+----ZADATAK 1-----
+Pocetna točka: 10.0   Funkcija: 31
+
+ Postupak zlatnog reza
+Minimum: [3.0000002]
+Broj pozivanja funkcije: 43
+
+ Pretraživanje po koordinatnim osima
+Minimum: [3.00000011]
+Broj pozivanja funkcije: 84
+
+ Postupak Hooke-Jevees
+Minimum: [3.]
+Broj pozivanja funkcije: 119
+
+ Simpleks postupak po Nelderu i Meadu
+Minimum: [4.]
+Broj pozivanja funkcije: 27
+
+----ZADATAK 2-----
+
+--PODZADATAK 1--
+Pocetna točka: [-1.9, 2.0]   Funkcija: 1
+
+ Pretraživanje po koordinatnim osima
+Minimum: [1.00030636 1.000613  ]
+Broj pozivanja funkcije: 240555
+
+ Postupak Hooke-Jevees
+Minimum: [1.00000153 1.00000381]
+Broj pozivanja funkcije: 694
+
+ Simpleks postupak po Nelderu i Meadu
+Minimum: [0.99988535 0.99967261]
+Broj pozivanja funkcije: 914
+
+--PODZADATAK 2--
+Pocetna točka: [0.1, 0.3]   Funkcija: 2
+
+ Pretraživanje po koordinatnim osima
+Minimum: [3.99999979 2.00000011]
+Broj pozivanja funkcije: 157
+
+ Postupak Hooke-Jevees
+Minimum: [3.99999962 2.00000076]
+Broj pozivanja funkcije: 305
+
+ Simpleks postupak po Nelderu i Meadu
+Minimum: [4.00001264 2.00008464]
+Broj pozivanja funkcije: 416
+
+--PODZADATAK 3--
+Pocetna točka: [0.0, 0.0, 0.0, 0.0, 0.0]   Funkcija: 3
+
+ Pretraživanje po koordinatnim osima
+Minimum: [0.9999999515345119, 1.9999999123251082, 3.000000235256421, 3.9999999700466815, 5.0]
+Broj pozivanja funkcije: 393
+
+ Postupak Hooke-Jevees
+Minimum: [1. 2. 3. 4. 5.]
+Broj pozivanja funkcije: 427
+
+ Simpleks postupak po Nelderu i Meadu
+Minimum: [1.00075703 2.00042076 3.00071228 4.00117845 4.99913893]
+Broj pozivanja funkcije: 2033
+
+--PODZADATAK 4--
+Pocetna točka: [5.1, 1.1]   Funkcija: 4
+
+ Pretraživanje po koordinatnim osima
+Minimum: [-1.09999965  1.09999951]
+Broj pozivanja funkcije: 154
+
+ Postupak Hooke-Jevees
+Minimum: [3.1 3.1]
+Broj pozivanja funkcije: 172
+
+ Simpleks postupak po Nelderu i Meadu
+Minimum: [ 1.28292631e-06 -1.17532825e-06]
+Broj pozivanja funkcije: 838
+
+----ZADATAK 3-----
+Pocetna točka: [5.0, 5.0]   Funkcija: 4
+
+ Postupak Hooke-Jevees
+Minimum: [5. 5.]
+Broj pozivanja funkcije: 152
+
+ Simpleks postupak po Nelderu i Meadu
+Minimum: [1.48954951e-07 8.38934029e-07]
+Broj pozivanja funkcije: 851
+
+----ZADATAK 4-----
+Pocetna točka: [0.5, 0.5]   Funkcija: 1
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 1
+Minimum: [0.99970432 0.99937001]
+Broj pozivanja funkcije: 411
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 2
+Minimum: [1.00028032 1.00057471]
+Broj pozivanja funkcije: 989
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 3
+Minimum: [0.99932231 0.99862983]
+Broj pozivanja funkcije: 648
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 4
+Minimum: [0.99972345 0.99948237]
+Broj pozivanja funkcije: 633
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 5
+Minimum: [0.9999511  0.99986874]
+Broj pozivanja funkcije: 643
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 6
+Minimum: [0.9994995  0.99903809]
+Broj pozivanja funkcije: 1207
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 7
+Minimum: [1.00012202 1.00025997]
+Broj pozivanja funkcije: 590
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 8
+Minimum: [1.00022749 1.00047828]
+Broj pozivanja funkcije: 798
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 9
+Minimum: [0.99980811 0.99961349]
+Broj pozivanja funkcije: 613
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 10
+Minimum: [0.99966083 0.99922578]
+Broj pozivanja funkcije: 588
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 11
+Minimum: [0.99962705 0.99934774]
+Broj pozivanja funkcije: 616
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 12
+Minimum: [1.0002582 1.000526 ]
+Broj pozivanja funkcije: 656
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 13
+Minimum: [1.000133   1.00017503]
+Broj pozivanja funkcije: 1276
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 14
+Minimum: [1.00002251 0.99997012]
+Broj pozivanja funkcije: 594
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 15
+Minimum: [0.99940185 0.99883281]
+Broj pozivanja funkcije: 572
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 16
+Minimum: [0.99919916 0.99836004]
+Broj pozivanja funkcije: 672
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 17
+Minimum: [0.99965758 0.99933117]
+Broj pozivanja funkcije: 589
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 18
+Minimum: [1.00057482 1.00110751]
+Broj pozivanja funkcije: 591
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 19
+Minimum: [1.00023181 1.00048197]
+Broj pozivanja funkcije: 675
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 20
+Minimum: [1.00097811 1.00202804]
+Broj pozivanja funkcije: 800
+
+Pocetna točka: [20.0, 20.0]   Funkcija: 1
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 1
+Minimum: [1.00037562 1.00063581]
+Broj pozivanja funkcije: 2445
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 2
+Minimum: [1.00122661 1.00247835]
+Broj pozivanja funkcije: 2181
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 3
+Minimum: [0.99928232 0.99855811]
+Broj pozivanja funkcije: 1833
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 4
+Minimum: [0.99987871 0.99983819]
+Broj pozivanja funkcije: 2062
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 5
+Minimum: [0.9996798  0.99942856]
+Broj pozivanja funkcije: 1691
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 6
+Minimum: [1.00006645 1.00004131]
+Broj pozivanja funkcije: 1843
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 7
+Minimum: [1.00018205 1.00043592]
+Broj pozivanja funkcije: 1546
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 8
+Minimum: [0.99926446 0.99855917]
+Broj pozivanja funkcije: 1490
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 9
+Minimum: [0.99909691 0.99828303]
+Broj pozivanja funkcije: 2151
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 10
+Minimum: [1.00032395 1.00060827]
+Broj pozivanja funkcije: 2001
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 11
+Minimum: [0.99990856 0.99987103]
+Broj pozivanja funkcije: 1257
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 12
+Minimum: [1.00064411 1.00121788]
+Broj pozivanja funkcije: 1857
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 13
+Minimum: [1.00006435 1.00011458]
+Broj pozivanja funkcije: 2025
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 14
+Minimum: [1.0004639  1.00106846]
+Broj pozivanja funkcije: 1792
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 15
+Minimum: [1.00003851 0.99996075]
+Broj pozivanja funkcije: 1637
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 16
+Minimum: [1.00046739 1.0008759 ]
+Broj pozivanja funkcije: 762
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 17
+Minimum: [0.99993187 0.99976897]
+Broj pozivanja funkcije: 2094
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 18
+Minimum: [1.00025592 1.00050541]
+Broj pozivanja funkcije: 2008
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 19
+Minimum: [1.0004995  1.00107482]
+Broj pozivanja funkcije: 2093
+
+ Simpleks postupak po Nelderu i Meadu uz pomak 20
+Minimum: [1.00092682 1.00182194]
+Broj pozivanja funkcije: 2142
+
+----ZADATAK 5-----
+Pocetne točke su slučajno odabrane.   Funkcija: 6
+Vjerojatnost pronalaska globalnog optimuma:  0.1 %
